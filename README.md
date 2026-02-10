@@ -1,4 +1,26 @@
-## Hi there 👋
+# José Guadalupe González Castro
+### Data Analyst Jr | SQL • Python • Excel • Data Visualization
+
+Soy Analista de Datos Jr. en formación, enfocado en transformar datos en información clara para la toma de decisiones. Actualmente estoy finalizando mi formación en Data Analytics, trabajando con proyectos prácticos basados en datos reales.
+
+## 🛠️ Herramientas y Tecnologías
+- SQL (consultas intermedias, joins, agregaciones)
+- Python (pandas, numpy, matplotlib)
+- Excel (tablas dinámicas, fórmulas, limpieza de datos)
+- Visualización de datos
+- Análisis exploratorio de datos (EDA)
+
+## 📂 Proyectos Destacados
+Aquí encontrarás proyectos enfocados en:
+- Limpieza y preparación de datos
+- Análisis exploratorio
+- Identificación de patrones y métricas
+- Visualización de resultados
+
+## 🔗 Contacto
+- 📧 Email: gonzalezcastrojoseguadalupe9@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/jose-guadalupe-gonzalez-castro-data-analyst/
+
 
 <!--
 **gonzalezcastrojoseguadalupe9-alt/gonzalezcastrojoseguadalupe9-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
