@@ -21,6 +21,14 @@ Aquí encontrarás proyectos enfocados en:
 - 📧 Email: gonzalezcastrojoseguadalupe9@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/jose-guadalupe-gonzalez-castro-data-analyst/
 
+## 🚗 Proyecto destacado: Análisis de datos de vehículos
+
+Aplicación web desarrollada para analizar datos de vehículos, identificar patrones y visualizar información relevante para la toma de decisiones.
+
+🔗 Demo: https://vehiculos-sxir.onrender.com/
+📁 Código: (este repositorio)
+
+**Herramientas:** Python, pandas, análisis exploratorio de datos, visualización
 
 <!--
 **gonzalezcastrojoseguadalupe9-alt/gonzalezcastrojoseguadalupe9-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
